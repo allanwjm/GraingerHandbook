@@ -1,5 +1,5 @@
 # Perfection | Stillness iPad app
-This is a brief introduction and cookbook for the **Perfection | Stillness** iPad app developed by _Allan Wu_.
+This is a brief introduction and handbook for the **Perfection | Stillness** iPad app developed by _Allan Wu_.
 
 ## Setting up iPads 
 URL: <https://grainger-visitor.appspot.com/tablet>
