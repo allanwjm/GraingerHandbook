@@ -23,7 +23,7 @@ URL: <https://grainger-visitor.appspot.com/player> (Login required)
 1. Select the music to play. Keep the device from sleep.
 1. **Important**: Only use **one** divice and only open **one** player at the same time!
 
-##### Controlling checkboxes:
+#### Controlling checkboxes:
 * **Loop**: Continue playing another piece when finished one.  
 * **Shuffle**: Randomly pick next piece. Otherwise simply pick the next one by list order.
 
