@@ -6,14 +6,16 @@ URL: <https://grainger-visitor.appspot.com/tablet>
 1. Open the tablet page in **Safari**.
 1. On the top right corner, click **Share** button, then **Add to Home Screen**.
 1. Open the **Perfection** just like an app from the home screen.
-1. Set up guided access if required.\
-<img alt="Add to Home Screen" src="add-to-home.jpeg" height="320" width="480" />
+1. Set up guided access if required.
+
+<img alt="Add to Home Screen" src="add-to-home.jpeg" width="640" height="480" />
  
 ## Visitor page
 URL: <https://grainger-visitor.appspot.com>\
 This page can be accessed with the QR code.
-This page is designed for small screens (such as mobile phones).\
-* <img alt="QR code" src="qrcode.png" height="300" width="360" />
+This page is designed for small screens (such as mobile phones).
+
+<img alt="QR code" src="qrcode.png" width="300" height="360" />
 
 ## Playing music
 URL: <https://grainger-visitor.appspot.com/player> (Login required)
